@@ -1,3 +1,5 @@
+![TASSIE_Logo](https://github.com/user-attachments/assets/faa7fdd1-2604-45a7-8f6c-e21699ce7740)
+
 The TASmanian Search for Inclined Exoplanets (TASSIE) follow-up program is conducted at the University of Tasmania Greenhill Observatory.
 In this repository, we show the jupyter notebooks used for analysis in our first paper. 
 Note: some code had to be cut from the .ipynb file as the size was too large to upload. However, this was all work that was not included within the paper 
